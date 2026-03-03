@@ -1,10 +1,9 @@
-
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Rudra Verma
 
 <div align="center">
-  
-### 🚀 Full Stack Developer | MERN Stack Enthusiast | 400+ LeetCode Problems Solved
-  
+
+### 🚀 Full Stack Developer · MERN Stack · 400+ LeetCode Problems Solved
+
 <p align="center">
   <a href="https://rudraverma.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
@@ -20,7 +19,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;400%2B+LeetCode+Problems+Solved;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Apps;400%2B+LeetCode+Problems+Solved;Learning+DevOps+%26+Spring+Boot;Always+Shipping+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -30,14 +29,15 @@
 
 ```javascript
 const rudra = {
-    🎓 education: "B.Tech CSE @ Swami Vivekananda University",
-    📊 cgpa: "8.86/10.0",
-    💼 currentlyLookingFor: "Full Stack Developer Opportunities",
-    🎯 focus: ["MERN Stack", "System Design", "DSA"],
-    🏆 achievements: ["400+ LeetCode Solutions", "1000+ GitHub Commits"],
-    🌱 currentlyLearning: ["System Design", "Advanced React Patterns"],
-    🎭 hobbies: ["Reading Philosophy 📖", "Playing Cricket 🏏"],
-    ⚡ funFact: "I debug with console.log() and I'm proud of it!"
+  education:     "B.Tech CSE @ Swami Vivekananda University (2022–2026)",
+  cgpa:          "8.86 / 10.0",
+  role:          "Full Stack Web Developer",
+  stack:         ["React", "Node.js", "Express", "MongoDB"],
+  currentlyLearning: ["DevOps & Docker", "Spring Boot", "System Design"],
+  achievements:  ["400+ LeetCode Solutions", "1000+ GitHub Commits"],
+  lookingFor:    "Full Stack / SWE Internships & Roles",
+  hobbies:       ["Reading Philosophy 📖", "Playing Cricket 🏏"],
+  funFact:       "I debug with console.log() and I'm proud of it! 😄"
 };
 ```
 
@@ -45,47 +45,67 @@ const rudra = {
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### Backend
+### ⚙️ Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=white" />
 </p>
 
-### Database
+### 🗄️ Database
 <p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-### Programming Languages
+### 💻 Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### Tools & Technologies
+### 🔧 Tools & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🌱 Currently Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -95,45 +115,65 @@ const rudra = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🚗 Car Rental Platform</h3>
-      <div align="center">  
-        <a href="https://github.com/outgoingrudra" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=for-the-badge&logo=github" alt="Code" />
+      <h3 align="center">🎙️ Talent IQ — Interview Platform</h3>
+      <div align="center">
+        <a href="https://github.com/outgoingrudra/ip" target="_blank">
+          <img src="https://img.shields.io/badge/Code-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <p><strong>MongoDB • Express • React • Node.js</strong></p>
-        <p>Location-based vehicle rental application with real-time availability, booking management, and responsive UI. Features secure authentication and seamless user experience.</p>
+        &nbsp;
+        <a href="https://ip-slfp.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <br/><br/>
+        <p><strong>MongoDB · Express · React · Node.js · Stream · Clerk · Inngest</strong></p>
+        <p>Real-time collaborative interview platform with HD video calls, shared code editor, and integrated chat. Built for seamless remote technical interviews and pair programming sessions.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">✍️ Quick Blog</h3>
+      <h3 align="center">🚗 Car Rental Platform</h3>
       <div align="center">
-        <a href="https://github.com/outgoingrudra" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=for-the-badge&logo=github" alt="Code" />
+        <a href="https://github.com/outgoingrudra/Car" target="_blank">
+          <img src="https://img.shields.io/badge/Code-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <p><strong>MERN Stack • AI APIs</strong></p>
-        <p>Full-stack blogging platform with AI-powered content generation for faster post creation. Includes rich text editor and content management.</p>
+        &nbsp;
+        <a href="https://car-rental-zeta-hazel.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <br/><br/>
+        <p><strong>MongoDB · Express · React · Node.js · Location API</strong></p>
+        <p>Location-based vehicle rental platform with real-time availability, pickup/drop-off date selection, and seamless booking. Fully responsive across all devices.</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎨 Portfolio Website</h3>
+      <h3 align="center">✍️ Blog Website</h3>
       <div align="center">
-        <a href="https://rudraverma.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live-View_Demo-green?style=for-the-badge&logo=vercel" alt="Demo" />
+        <a href="https://github.com/outgoingrudra/Blog-site" target="_blank">
+          <img src="https://img.shields.io/badge/Code-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <p><strong>React • Tailwind CSS • EmailJS</strong></p>
-        <p>Personal portfolio showcasing projects with smooth animations and contact integration. Features modern design and responsive layout.</p>
+        &nbsp;
+        <a href="https://blog-site-gn4w.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <br/><br/>
+        <p><strong>MongoDB · Express · React · Node.js · AI Integration</strong></p>
+        <p>Full-stack blogging platform with AI-powered content assistance, rich text editor, user authentication, and real-time interactions.</p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🍕 Pizza Ordering App</h3>
+      <h3 align="center">🎨 Developer Portfolio</h3>
       <div align="center">
         <a href="https://github.com/outgoingrudra" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=for-the-badge&logo=github" alt="Code" />
+          <img src="https://img.shields.io/badge/Code-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <p><strong>React • Tailwind CSS</strong></p>
-        <p>Modern food ordering interface with menu browsing, coupon system, and cart management. Includes order tracking and payment integration.</p>
+        &nbsp;
+        <a href="https://rudraverma.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live-Demo-22d3ee?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <br/><br/>
+        <p><strong>React · Tailwind CSS · Framer Motion · EmailJS</strong></p>
+        <p>Cinematic dark-themed portfolio with smooth animations, tabbed skill panels, project showcase, certificate gallery, and functional contact form.</p>
       </div>
     </td>
   </tr>
@@ -169,11 +209,11 @@ const rudra = {
 | <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> | **1000+ Commits** |
 
 ### 🎓 Certifications
-| Course | Platform | Achievement |
+| Course | Platform | Badge |
 |:---:|:---:|:---:|
-| **Programming in Java** | NPTEL | 🥇 Elite + Gold |
-| **Software Engineering** | NPTEL | 🥈 Elite + Silver |
-| **Design & Analysis of Algorithms** | NPTEL | ✅ Certified |
+| **Programming in Java** | NPTEL (IIT) | 🥇 Elite + Gold |
+| **Software Engineering** | NPTEL (IIT) | 🥈 Elite + Silver |
+| **Design & Analysis of Algorithms** | NPTEL (IIT) | ✅ Certified |
 | **React Development** | Ardent Infotech | ✅ Certified |
 
 </div>
@@ -188,38 +228,46 @@ const rudra = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 What I'm Up To
+## 🎯 Current Focus & Future Goals
 
-- 🔭 Currently working on **Full Stack MERN Projects**
-- 🌱 Learning **System Design & Advanced React Patterns**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, MongoDB, DSA**
-- 📫 How to reach me: **vrudra671@gmail.com**
-- ⚡ Fun fact: **I think coding is the closest thing we have to magic! ✨**
+```text
+NOW          →  Shipping full-stack MERN projects & sharpening DSA
+NEXT         →  Mastering DevOps (Docker · Kubernetes · CI/CD · AWS)
+NEXT         →  Deep-diving into Spring Boot & backend microservices
+FUTURE       →  System Design — building for scale & reliability
+GOAL         →  SWE @ a product company I'm proud of
+```
+
+| 🔭 Working On | Full Stack MERN projects & open-source contributions |
+|:---|:---|
+| 🌱 Learning | DevOps, Docker, Spring Boot, System Design |
+| 🎯 Target | Backend Engineering & Cloud Infrastructure |
+| 💬 Ask Me About | React, Node.js, MongoDB, Express, DSA |
+| 📫 Reach Me | vrudra671@gmail.com |
+| ⚡ Fun Fact | Coding is the closest thing we have to magic ✨ |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/rudra-verma-33258a2a3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/rudraverma03/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
   <a href="mailto:vrudra671@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://rudraverma.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </p>
 
 <div align="center">
-  <h3>💙 Open to Full Stack Development Opportunities</h3>
+  <h3>💙 Open to Full Stack & SWE Opportunities</h3>
   <p><em>Building scalable solutions, one commit at a time.</em></p>
-  
   <img src="https://komarev.com/ghpvc/?username=outgoingrudra&color=5CE1E6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
 
