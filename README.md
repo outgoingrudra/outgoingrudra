@@ -29,7 +29,7 @@
 
 ```javascript
 const rudra = {
-  education:     "B.Tech CSE @ Swami Vivekananda University (2022–2026)",
+  education:     "B.Tech CSE @ Swami Vivekananda University (2023–2027)",
   cgpa:          "8.86 / 10.0",
   role:          "Full Stack Web Developer",
   stack:         ["React", "Node.js", "Express", "MongoDB"],
